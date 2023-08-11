@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+  
+![image](https://github.com/Bybburnam/configure-ad/assets/102566114/0aacc77b-ccc5-49df-b29d-8d893b83a09e)
+
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
